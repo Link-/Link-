@@ -1,2 +1,2 @@
-![https://github.com/Link-/Link-/blob/master/Bassem_wRnM.PNG?raw=true](https://github.com/Link-/Link-/blob/master/Bassem_wRnM.PNG?raw=true)
+![https://raw.githubusercontent.com/Link-/Link-/master/Bassem_wRnM.PNG](https://raw.githubusercontent.com/Link-/Link-/master/Bassem_wRnM.PNG)
 Morty you idiot!
