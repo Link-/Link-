@@ -13,10 +13,10 @@
 
 <br><p align="center">
   ✨ 🧙🏼‍♂️ ✨ <br />
-  ![Twitter](https://img.shields.io/twitter/follow/bassemdy?style=flat-square)
+  [![Twitter](https://img.shields.io/twitter/follow/bassemdy?style=flat-square)](https://twitter.com/bassemdy)
   [![Blog](https://img.shields.io/badge/blog-blog.bassemdy.com-blue)](https://blog.bassemdy.com)
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/bassemdghaidy)
-  ![PGP](https://img.shields.io/keybase/pgp/bassemdy?style=flat-square)
+  [![PGP](https://img.shields.io/keybase/pgp/bassemdy?style=flat-square)](https://keybase.io/bassemdy)
 </p>
   </td>
   </table>
