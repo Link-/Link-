@@ -15,7 +15,7 @@
         <td width="50%">
           <br />
           <p align="center">
-            ✨ 🧙🏼‍♂️ ✨ 
+            ✨ 🧙🏼‍♂️ ✨
             <br />
             <a href="https://glich.stream" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC6iKOXJ9PD-n8DcFPBjLD0w?label=Youtube%20subscribers&style=flat-square" /></a>
             <br />

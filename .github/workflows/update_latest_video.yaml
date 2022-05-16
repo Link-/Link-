@@ -1,0 +1,46 @@
+name: Fetch latest video
+
+on:
+  schedule:
+    - cron: '5 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch and update latest video
+        run: |
+          # Fetch the feed
+          curl -G "https://www.youtube.com/feeds/videos.xml?channel_id=UC6iKOXJ9PD-n8DcFPBjLD0w" > feed.xml
+          python3 - <<'EOF'
+          import fileinput
+          import xml.etree.ElementTree as ET
+          
+          # Parse the XML
+          root = ET.parse("feed.xml")
+          video_title = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}title")[0].text
+          video_thumbnail_url = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail")[0].attrib["url"]
+          
+          # Update the README.md file with the latest video details
+          filename = "README.md"
+          with fileinput.FileInput(filename, inplace=True, backup='.bak') as file:
+              for line in file:
+                  if line.startswith('          <h3 id="latest_video_title"'):
+                      newline = f"          <h3 id=\"latest_video_title\" align=\"center\">{video_title}</h3>"
+                      print(newline)
+                  elif line.startswith('            <img id="latest_video_thumbnail"'):
+                      newline = f"            <img id=\"latest_video_thumbnail\" src=\"{video_thumbnail_url}\" />"
+                      print(newline)
+                  else:
+                      print(line, end='')
+          EOF
+
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
+        with:
+          commit_message: "Update latest video"
+          file_pattern: README.md
+          commit_user_name: link-ghost
+          commit_author: link-ghost <github-actions[bot]@users.noreply.github.com>
