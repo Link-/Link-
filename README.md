@@ -8,7 +8,7 @@
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=2XLlC2ZXwVg" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/2XLlC2ZXwVg/hqdefault.jpg" width="480" style="object-fit: none;" />
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/2XLlC2ZXwVg/hqdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
