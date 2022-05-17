@@ -2,6 +2,10 @@
   <body>
     <table width="100%">
       <tr>
+        <td><i>📺 Latest Youtube Video</i></td>
+        <td></td>
+      </tr>
+      <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
           <h3 id="latest_video_title" align="center">Imposter syndrome. Will you ever be good enough?</h3>
