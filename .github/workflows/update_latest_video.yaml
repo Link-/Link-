@@ -20,9 +20,9 @@ jobs:
           
           # Parse the XML
           root = ET.parse("feed.xml")
+          video_url = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://www.w3.org/2005/Atom}link")[0].attrib["href"]
           video_title = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}title")[0].text
           video_thumbnail_url = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail")[0].attrib["url"]
-          video_url = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}link")[0].attrib["href"]
           # Replace thumbnail with max resolution version
           video_thumbnail_url = video_thumbnail_url.replace("hqdefault", "maxresdefault")
           # DEBUG
