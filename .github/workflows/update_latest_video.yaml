@@ -22,8 +22,13 @@ jobs:
           root = ET.parse("feed.xml")
           video_title = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}title")[0].text
           video_thumbnail_url = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail")[0].attrib["url"]
+          video_url = root.findall("./{http://www.w3.org/2005/Atom}entry[1]/{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}link")[0].attrib["href"]
           # Replace thumbnail with max resolution version
           video_thumbnail_url = video_thumbnail_url.replace("hqdefault", "maxresdefault")
+          # DEBUG
+          print(f"New video title: {video_title}")
+          print(f"New video thumbnail: {video_thumbnail_url}")
+          print(f"New video url: {video_url}")
           # Update the README.md file with the latest video details
           filename = "README.md"
           with fileinput.FileInput(filename, inplace=True, backup='.bak') as file:
@@ -33,6 +38,9 @@ jobs:
                       print(newline)
                   elif line.startswith('            <img id="latest_video_thumbnail"'):
                       newline = f"            <img id=\"latest_video_thumbnail\" src=\"{video_thumbnail_url}\" />"
+                      print(newline)
+                  elif line.startswith('          <a id="latest_video_url"'):
+                      newline = f"          <a id=\"latest_video_url\" href=\"{video_url}\" target=\"_blank\">"
                       print(newline)
                   else:
                       print(line, end='')
