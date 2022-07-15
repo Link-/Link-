@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E13 - Imposter phenomenon: how I cope with it!</h3>
+          <h3 id="latest_video_title" align="center">E6 - Learn OpenID Connect (OIDC) and how to deploy securely to the cloud with GitHub Actions</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=wUwUhydi808" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/wUwUhydi808/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=k2Tv-EJl7V4" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/k2Tv-EJl7V4/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
