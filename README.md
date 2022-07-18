@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E6 - Learn OpenID Connect (OIDC) and how to deploy securely to the cloud with GitHub Actions</h3>
+          <h3 id="latest_video_title" align="center">Should I focus on data structures and algorithms? #coding #softwareengineering</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=k2Tv-EJl7V4" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/k2Tv-EJl7V4/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=h06p1sdgtfQ" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/h06p1sdgtfQ/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
