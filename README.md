@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">You want to be a tech consultant? These are the skills you need #softwareengineering  #consulting</h3>
+          <h3 id="latest_video_title" align="center">How can I grow technically as a junior software engineer? #coding #softwareengineering</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=8gSliPqQjAc" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/8gSliPqQjAc/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=2G7Ku2xwJ6o" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/2G7Ku2xwJ6o/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
