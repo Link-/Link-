@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">How can I grow technically as a junior software engineer? #coding #softwareengineering</h3>
+          <h3 id="latest_video_title" align="center">E14 - What's the role of a Software Architect? Are they REALLY needed?!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=2G7Ku2xwJ6o" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/2G7Ku2xwJ6o/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=-r_-rzlpcJI" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/-r_-rzlpcJI/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
