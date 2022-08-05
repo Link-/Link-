@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Part 2 - Promotions are not just merit based!</h3>
+          <h3 id="latest_video_title" align="center">E15 - What does Software Engineering in Big Tech look like?</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=S52e8YNxtfg" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/S52e8YNxtfg/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=fpq-HBHHWd4" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/fpq-HBHHWd4/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
