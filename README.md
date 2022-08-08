@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Dealing with software engineers who always disagree with the architecture #softwareengineering</h3>
+          <h3 id="latest_video_title" align="center">Dealing with software engineers who always disagree with the architecture</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=N-hZFUSlLeg" target="_blank">
