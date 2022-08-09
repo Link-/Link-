@@ -28,6 +28,8 @@
             <a href="https://www.linkedin.com/in/bassemdghaidy" target="_blank"><img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" /></a>
             <br />
             <a href="https://keybase.io/bassemdy" target="_blank"><img src="https://img.shields.io/keybase/pgp/bassemdy?style=flat-square" /></a>
+            <br />
+            <a href="https://linktr.ee/glich.stream" target="_blank">✨ linktr.ee/glich.stream ✨</a>
           </p>
         </td>
       </tr>
