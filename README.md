@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Easy custom shell prompt configuration!</h3>
+          <h3 id="latest_video_title" align="center">E16 - Why Is Everyone Talking About Data Engineering?</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=wS38L2pFhpM" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/wS38L2pFhpM/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=AkJp9xrbu4w" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/AkJp9xrbu4w/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
