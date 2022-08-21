@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E16 - Why Is Everyone Talking About Data Engineering?</h3>
+          <h3 id="latest_video_title" align="center">5 tips for a GREAT ONBOARDING experience!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=AkJp9xrbu4w" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/AkJp9xrbu4w/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=p_yEje2cJI8" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/p_yEje2cJI8/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
