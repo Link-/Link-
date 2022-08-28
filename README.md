@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E17 - Within The SPECIAL PROJECTS Team @ GitHub</h3>
+          <h3 id="latest_video_title" align="center">I've reached my limits!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=jGbTLSwTBbQ" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/jGbTLSwTBbQ/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=oe6yQhJ8buI" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/oe6yQhJ8buI/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
