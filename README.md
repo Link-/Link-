@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Skills & Traits of the greatest software engineers!</h3>
+          <h3 id="latest_video_title" align="center">6 interviewing tips for inexperienced interviewers!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=kd7meCnZqqo" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/kd7meCnZqqo/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=u3vYcgIyvuU" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/u3vYcgIyvuU/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
