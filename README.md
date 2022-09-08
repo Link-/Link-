@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">6 interviewing tips for inexperienced interviewers!</h3>
+          <h3 id="latest_video_title" align="center">E18 - The Skills Needed For A Successful Data Analytics Career</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=u3vYcgIyvuU" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/u3vYcgIyvuU/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=uk_1Go_kDvA" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/uk_1Go_kDvA/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
