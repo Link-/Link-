@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E18 - The Skills Needed For A Successful Data Analytics Career</h3>
+          <h3 id="latest_video_title" align="center">E19 - This is the story of Marwa!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=uk_1Go_kDvA" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/uk_1Go_kDvA/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=YrhwN1uj6X0" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/YrhwN1uj6X0/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
