@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E19 - This is the story of Marwa!</h3>
+          <h3 id="latest_video_title" align="center">Incident management in big tech is the art of staying calm!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=YrhwN1uj6X0" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/YrhwN1uj6X0/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=imFsZt4CUQM" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/imFsZt4CUQM/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
