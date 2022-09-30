@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Tips to help you get better at software engineering effort estimates!</h3>
+          <h3 id="latest_video_title" align="center">What every software architect must know!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=B3Sp4za7B6k" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/B3Sp4za7B6k/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=2xM3PjaOTNE" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/2xM3PjaOTNE/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
