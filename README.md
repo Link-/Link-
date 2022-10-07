@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Immigrating to Europe or the USA & working in Tech</h3>
+          <h3 id="latest_video_title" align="center">Discover your options to get paid as a Software Engineer!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=PR0Lg26deBI" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/PR0Lg26deBI/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=SmJBqjZtqHo" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/SmJBqjZtqHo/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
