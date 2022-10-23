@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Agile is the new waterfall!</h3>
+          <h3 id="latest_video_title" align="center">What software architects do all day 🤷‍♂️</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=e6hVw2wAPFQ" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/e6hVw2wAPFQ/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=Yvv-zIhj_Qw" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/Yvv-zIhj_Qw/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
