@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E21 - Engineering in the Arab World vs Europe & USA</h3>
+          <h3 id="latest_video_title" align="center">Business domain knowledge is ESSENTIAL!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=b5dD8ADpLs4" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/b5dD8ADpLs4/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=XRWy8LrWLGM" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/XRWy8LrWLGM/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
