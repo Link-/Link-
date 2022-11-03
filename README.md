@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Business domain knowledge is ESSENTIAL!</h3>
+          <h3 id="latest_video_title" align="center">Programming is less fun with time!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=XRWy8LrWLGM" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/XRWy8LrWLGM/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=RMmDPuluIj0" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/RMmDPuluIj0/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
