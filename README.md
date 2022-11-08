@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">How large corporations design software at scale!</h3>
+          <h3 id="latest_video_title" align="center">What is tech debt?!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=Vtb4eT74rLo" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/Vtb4eT74rLo/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=JHDXhnMSu84" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/JHDXhnMSu84/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
