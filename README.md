@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">The COMPLETE backend engineer roadmap reviewed | Build a study plan</h3>
+          <h3 id="latest_video_title" align="center">Job titles in tech are meaningless #softwareengineering #coding</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=1piAu0IfJdA" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/1piAu0IfJdA/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=0VZQM5idTBA" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/0VZQM5idTBA/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
