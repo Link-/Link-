@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Job titles in tech are meaningless #softwareengineering #coding</h3>
+          <h3 id="latest_video_title" align="center">What is Elon Musk thinking?</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=0VZQM5idTBA" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/0VZQM5idTBA/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=ekbhQiiyrRg" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/ekbhQiiyrRg/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
