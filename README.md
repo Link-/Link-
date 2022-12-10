@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Toxic work environments #softwareengineering #workplace</h3>
+          <h3 id="latest_video_title" align="center">The Software Architect Roadmap: A "Comprehensive" Review</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=sJ8k46oHX1Y" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/sJ8k46oHX1Y/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=YXAxQkpTo3I" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/YXAxQkpTo3I/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
