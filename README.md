@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">The Software Architect Roadmap: A "Comprehensive" Review</h3>
+          <h3 id="latest_video_title" align="center">A "Comprehensive" Review || Software Architect || Build a solid study plan</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=YXAxQkpTo3I" target="_blank">
