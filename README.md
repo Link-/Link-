@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">A "Comprehensive" Review || Software Architect || Build a solid study plan</h3>
+          <h3 id="latest_video_title" align="center">A software architects leads by guiding and coaching #softwareengineering</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=YXAxQkpTo3I" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/YXAxQkpTo3I/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=ap9lsNIusjQ" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/ap9lsNIusjQ/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
