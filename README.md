@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E23 - Examining the nuances of Software Testing</h3>
+          <h3 id="latest_video_title" align="center">E23 - Software Testing is NOT what you’re familiar with!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=HxQbu2ucgic" target="_blank">
