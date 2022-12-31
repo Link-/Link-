@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E23 - Software Testing is NOT what you’re familiar with!</h3>
+          <h3 id="latest_video_title" align="center">Why don't you speak in Arabic?</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=HxQbu2ucgic" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/HxQbu2ucgic/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=YB0yMFmwOQ8" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/YB0yMFmwOQ8/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
