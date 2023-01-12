@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">The true purpose of system design #softwareengineering #systemdesign</h3>
+          <h3 id="latest_video_title" align="center">The Art of System Design: Practical guide & Lessons from the field</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=x48xcRt31eo" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/x48xcRt31eo/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=3IWpU72eixw" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/3IWpU72eixw/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
