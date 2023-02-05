@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Simple rules for scaling web applications #softwareengineering #programming</h3>
+          <h3 id="latest_video_title" align="center">Learn git the easy way! #softwareengineering #programming #coding</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=6OBtDNdqRjw" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/6OBtDNdqRjw/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=b0DZ_RD-ZGk" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/b0DZ_RD-ZGk/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
