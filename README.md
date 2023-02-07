@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Learn git the easy way! #softwareengineering #programming #coding</h3>
+          <h3 id="latest_video_title" align="center">Who is going to maintain it? #softwareengineering #programming</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=b0DZ_RD-ZGk" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/b0DZ_RD-ZGk/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=rhkC31Vt25E" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/rhkC31Vt25E/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
