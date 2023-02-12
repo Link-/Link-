@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Strategies for Working From Home as a Software Engineer!</h3>
+          <h3 id="latest_video_title" align="center">The knowledge graph for software engineers #softwareengineering #programming</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=SBCZbJRp7Pk" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/SBCZbJRp7Pk/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=ggMgdLbnpEM" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/ggMgdLbnpEM/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
