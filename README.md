@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Learn Programming (Part 3) - Beyond the Language #softwareengineering #programming #coding</h3>
+          <h3 id="latest_video_title" align="center">Learn Programming (Part 4) - Working with others #softwareengineering #programming #coding</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=q0NbUwQYhkI" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/q0NbUwQYhkI/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=Rqd8NMAakGQ" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/Rqd8NMAakGQ/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
