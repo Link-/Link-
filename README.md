@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E26 - Navigating the Tech Job Market: Insights from a Recruiting Specialist</h3>
+          <h3 id="latest_video_title" align="center">Scaling Web Applications with Bassem Dghaidi & Ahmed Elemam ( بالعربي )</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=x7VtffiVlZU" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/x7VtffiVlZU/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=L9CaSJZEU1o" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/L9CaSJZEU1o/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
