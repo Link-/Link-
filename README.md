@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Take ownership! #programming #coding #softwareengineering</h3>
+          <h3 id="latest_video_title" align="center">Copilot X will forever change how we write software</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=QPGsqMMakRs" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/QPGsqMMakRs/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=s7AGkcSMiaI" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/s7AGkcSMiaI/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
