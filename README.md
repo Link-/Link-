@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Building a GitHub CLI extension in Go (Part 2)</h3>
+          <h3 id="latest_video_title" align="center">Building a GitHub CLI extension in Go (Part 3)</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=5wA0wwZ8FuU" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/5wA0wwZ8FuU/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=mpOBZLK89Fw" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/mpOBZLK89Fw/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
