@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Decomposing big problems #coding #softwareengineering</h3>
+          <h3 id="latest_video_title" align="center">Overengineering projects #coding #softwareengineering #programming</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=zRI_4y1ay4E" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/zRI_4y1ay4E/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=cX3Lsaf98nQ" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/cX3Lsaf98nQ/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
