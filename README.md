@@ -29,7 +29,7 @@
             <br />
             <a href="https://keybase.io/bassemdy" target="_blank"><img src="https://img.shields.io/keybase/pgp/bassemdy?style=flat-square" /></a>
             <br />
-            <a href="https://linktr.ee/glich.stream" target="_blank">✨ linktr.ee/glich.stream ✨</a>
+            <a href="https://glich.stream" target="_blank">✨ glich.stream ✨</a>
           </p>
         </td>
       </tr>
