@@ -11,8 +11,8 @@
           <h3 id="latest_video_title" align="center">Building a GitHub CLI extension in Go (Part 5)</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=vwlNkJwjXlM" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/vwlNkJwjXlM/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=kpSJHtPOSLY" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/kpSJHtPOSLY/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
