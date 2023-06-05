@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Learn git by BUILDING IT From Scratch! (Part 2) the git database [Advanced]</h3>
+          <h3 id="latest_video_title" align="center">Writing the git database & making out first commit! [Advanced]</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=U691XdSmvzU" target="_blank">
