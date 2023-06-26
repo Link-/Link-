@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Real world system design بالعربي with Bassem Dghaidi</h3>
+          <h3 id="latest_video_title" align="center">Podcast Season 3 Teaser</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=z6d3L5ABLZg" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/z6d3L5ABLZg/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=ZPPVcUhe04w" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/ZPPVcUhe04w/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
