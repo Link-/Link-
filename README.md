@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">DevOps: a term very few understand</h3>
+          <h3 id="latest_video_title" align="center">E29 - Creating roadmap.sh, Teaching, & Lessons from Working in Product Companies with Kamran Ahmed</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=hDhfjjMvvOA" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/hDhfjjMvvOA/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=25piYXpLBW0" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/25piYXpLBW0/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
