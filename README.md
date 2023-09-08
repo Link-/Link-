@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E29 - Creating roadmap.sh, Teaching, & Lessons from Working in Product Companies with Kamran Ahmed</h3>
+          <h3 id="latest_video_title" align="center">E29 - Creating dev roadmaps, Teaching, & Lessons from Working in Product Companies with Kamran Ahmed</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=25piYXpLBW0" target="_blank">
