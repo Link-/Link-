@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Microservices: More Problems Than Solutions?! Fast deep dive</h3>
+          <h3 id="latest_video_title" align="center">Working on open source tools (casual stream)</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=muF9dAy90-U" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/muF9dAy90-U/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=Nn9Bv7_UCn8" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/Nn9Bv7_UCn8/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
