@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Preparing for a technical public speaking event</h3>
+          <h3 id="latest_video_title" align="center">E30 - Web 3.0, Entrepreneurship and Chasing Trends with Nader Dabit</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=8D36VUWqZWA" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/8D36VUWqZWA/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=H4FMgS43dbw" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/H4FMgS43dbw/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
