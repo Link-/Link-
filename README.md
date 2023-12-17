@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">git progress: how to find all the changes made in a feature branch #coding #git #programming</h3>
+          <h3 id="latest_video_title" align="center">awesome git alias: git fm “” - search your git commits for a message #git #programming #coding</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=BE1XD2pIr1Y" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/BE1XD2pIr1Y/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=dJHPLY5JsSc" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/dJHPLY5JsSc/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
