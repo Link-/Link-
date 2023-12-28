@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Level up your terminal setup game || For beginners</h3>
+          <h3 id="latest_video_title" align="center">I built my first custom keyboard! This is how it went...</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=ViLTKCn23Qo" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/ViLTKCn23Qo/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=pE8lcf3MJDw" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/pE8lcf3MJDw/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
