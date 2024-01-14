@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">I built an ergonomic columnar split keyboard: build process review</h3>
+          <h3 id="latest_video_title" align="center">10 things I would look for in a new tech job</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=pE8lcf3MJDw" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/pE8lcf3MJDw/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=LBSu4dfTZjI" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/LBSu4dfTZjI/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
