@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Debugging and troubleshooting complex software failures!</h3>
+          <h3 id="latest_video_title" align="center">These programming languages and tools are not enough!</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=pXNWAeM9Z4o" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/pXNWAeM9Z4o/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=pNxnkfPOdqQ" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/pNxnkfPOdqQ/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
