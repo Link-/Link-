@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">The programmer's identity crisis</h3>
+          <h3 id="latest_video_title" align="center">10 tips to improve your Bash scripts</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=fsp0ZTiMjYY" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/fsp0ZTiMjYY/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=Czkk5qcDJ_0" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/Czkk5qcDJ_0/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
