@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">10 patterns to level up your Bash scripts</h3>
+          <h3 id="latest_video_title" align="center">You don't know Bash as well as you think</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=Czkk5qcDJ_0" target="_blank">
