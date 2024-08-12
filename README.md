@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">You don't know Bash as well as you think</h3>
+          <h3 id="latest_video_title" align="center">StackOverflow survey results analysis & general tech chat</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=Czkk5qcDJ_0" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/Czkk5qcDJ_0/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=gzMBlLCjPx8" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/gzMBlLCjPx8/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
