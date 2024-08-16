@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">File diffs without git</h3>
+          <h3 id="latest_video_title" align="center">File diffs without git: vimdiff</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=DqR01IXPcsI" target="_blank">
