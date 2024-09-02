@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Deobfuscating code with LLMs #programming #coding</h3>
+          <h3 id="latest_video_title" align="center">Unit tests are not just for testing #coding  #programming</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=ccYMsY1Tklc" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/ccYMsY1Tklc/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=zXxm5id2I5Y" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/zXxm5id2I5Y/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
