@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">The 9 Behaviours of GREAT Engineering Managers</h3>
+          <h3 id="latest_video_title" align="center">E32 - Working in regulated industries, QA to SWE, and public speaking with Donia Chaiehloudj</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=PilNFeR6vEM" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/PilNFeR6vEM/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=WmvvKN7fDhU" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/WmvvKN7fDhU/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
