@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">E32 - Working in regulated industries, QA to SWE, and public speaking with Donia Chaiehloudj</h3>
+          <h3 id="latest_video_title" align="center">Programming the GitHub Universe Badger 2040</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=WmvvKN7fDhU" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/WmvvKN7fDhU/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=9lGSvF4QE_Q" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/9lGSvF4QE_Q/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
