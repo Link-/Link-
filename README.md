@@ -8,7 +8,7 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Programming the GitHub Universe Badger 2040</h3>
+          <h3 id="latest_video_title" align="center">Programming the Pimoroni Badger 2350</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
           <a id="latest_video_url" href="https://www.youtube.com/watch?v=9lGSvF4QE_Q" target="_blank">
