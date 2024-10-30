@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Programming the Pimoroni Badger 2350</h3>
+          <h3 id="latest_video_title" align="center">Live: GitHub Universe 2024</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=9lGSvF4QE_Q" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i2.ytimg.com/vi/9lGSvF4QE_Q/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=TMDYu2NQxJQ" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/TMDYu2NQxJQ/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
