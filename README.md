@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Live: GitHub Universe 2024</h3>
+          <h3 id="latest_video_title" align="center">Scaling Load Balancers: GitHub Case Study</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=TMDYu2NQxJQ" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/TMDYu2NQxJQ/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/watch?v=u-gzb9DE3o8" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i1.ytimg.com/vi/u-gzb9DE3o8/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
