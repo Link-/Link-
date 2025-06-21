@@ -11,7 +11,7 @@
           <h3 id="latest_video_title" align="center">Obsidian + AI? The perfect combo #programming #obsidian #ai</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/watch?v=fA-wpan3zRk" target="_blank">
+          <a id="latest_video_url" href="https://www.youtube.com/shorts/fA-wpan3zRk" target="_blank">
             <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/fA-wpan3zRk/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
