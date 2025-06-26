@@ -8,11 +8,11 @@
       <tr>
         <td width="50%">
           <!-- VIDEO_TITLE::START -->
-          <h3 id="latest_video_title" align="center">Obsidian + AI? The perfect combo #programming #obsidian #ai</h3>
+          <h3 id="latest_video_title" align="center">Experienced software engineers don't always come up with the best solutions! #programming #coding</h3>
           <!-- VIDEO_TITLE::END -->
           <!-- VIDEO_LINK::START -->
-          <a id="latest_video_url" href="https://www.youtube.com/shorts/fA-wpan3zRk" target="_blank">
-            <img id="latest_video_thumbnail" src="https://i3.ytimg.com/vi/fA-wpan3zRk/maxresdefault.jpg" />
+          <a id="latest_video_url" href="https://www.youtube.com/shorts/GX8b0LXgH7c" target="_blank">
+            <img id="latest_video_thumbnail" src="https://i4.ytimg.com/vi/GX8b0LXgH7c/maxresdefault.jpg" />
           </a>
           <!-- VIDEO_LINK::END -->
         </td>
